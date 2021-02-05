@@ -1,0 +1,16 @@
+{
+  "name": "easyknock-test",
+  "version": "1.0.0",
+  "description": "take home test",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npm test",
+    "test": "mocha --recursive --exit"
+  },
+  "author": "Homero Silva",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
